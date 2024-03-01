@@ -21,7 +21,6 @@ Ensure you have the following installed:
 
 ### Installation
 Clone the repository:
-```bash
 git clone https://github.com/YourUsername/handwritten-digit-classification-tensorflow.git
 cd handwritten-digit-classification-tensorflow
 
@@ -29,7 +28,7 @@ cd handwritten-digit-classification-tensorflow
 python -m venv venv
 source venv/bin/activate  # On Windows: .\venv\Scripts\activate
 
-**Install dependencies:**
+### **Install dependencies:**
 pip install -r requirements.txt
 
 **Training the Model**
