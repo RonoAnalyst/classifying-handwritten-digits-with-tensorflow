@@ -21,7 +21,7 @@ Ensure you have the following installed:
 
 ### Installation
 Clone the repository:
-git clone https://github.com/YourUsername/handwritten-digit-classification-tensorflow.git
+git clone https://github.com/RonoAnalyst/handwritten-digit-classification-tensorflow.git
 cd handwritten-digit-classification-tensorflow
 
 **Set up virtual environment (optional but recommended):**
