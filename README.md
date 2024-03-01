@@ -24,26 +24,26 @@ Clone the repository:
 git clone https://github.com/RonoAnalyst/handwritten-digit-classification-tensorflow.git
 cd handwritten-digit-classification-tensorflow
 
-###**Set up virtual environment (optional but recommended):**
+### Set up virtual environment (optional but recommended):
 python -m venv venv
 source venv/bin/activate  # On Windows: .\venv\Scripts\activate
 
-### **Install dependencies:**
+### Install dependencies:
 pip install -r requirements.txt
 
-##**Training the Model**
+## Training the Model
 Execute the training script to train the CNN:
 python train_model.py
 
-##**Evaluating the Model**
+## Evaluating the Model
 Assess the model's accuracy and performance metrics:
 python evaluate_model.py
 
-##**Prediction**
+## Prediction
 Use the trained model to predict handwritten digits:
 python predict_digit.py
 
-##**License**
+## License
 This project is licensed under the MIT License.
 
 
